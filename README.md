@@ -1,4 +1,4 @@
-# <img src="/public/images/star-boy-good.svg" width="40"> ISAID
+# ISAID
 
 
 > **ISAID**는 MZ세대를 위한  
